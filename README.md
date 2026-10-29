@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: ISRAVEL Y
-Registeration Number : 212225240054
+Developed by: Balaji T
+Registeration Number : 212225240019
 */
 ```
 
@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ISRAVEL  Y - 212225240054\n\t   "
+        android:text="Balaji T - 212225240019\n\t   "
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
